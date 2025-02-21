@@ -1,0 +1,4 @@
+Timestamp,Server Name,Server Location,ISP,Latency (ms),Jitter (ms),Download Speed (Mbps),Upload Speed (Mbps),Packet Loss (%),Result URL
+"2025-02-21 17:10:03","YTL Broadband","Kuala Lumpur","TM Net","8.61","0.369","97.2481","49.6006","0","https://www.speedtest.net/result/c/d73e915d-8c02-46ae-9cfa-0d03b3f5899a"
+"2025-02-21 23:38:43","Maxis","Kuala Lumpur","Maxis Communications","7.586","0.338","193.534","95.2949","0","https://www.speedtest.net/result/c/223d6d63-d289-4c86-ab26-8d500a26a9e4"
+"2025-02-21 23:41:29","Maxis","Subang Jaya","Maxis Communications","7.264","0.508","201.195","96.5826","0","https://www.speedtest.net/result/c/7fd08b09-fea3-451e-81fc-f211a60575e7"
